@@ -1,0 +1,74 @@
+{
+    "movies": [
+      {
+        "mName": "Captain America: The First Avenger ⭐",
+        "cast": "Chris Evas, Tommy Lee jones, Hugo Weaving, Hayley Atwell",
+        "director": "Joe Johnston",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "https://www.youtube.com/embed/JerVrbLldXw",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTYzOTc2NzU3N15BMl5BanBnXkFtZTcwNjY3MDE3NQ@@._V1_FMjpg_UX1000_.jpg",
+        "id": 1,
+        "desc": "The film was directed by Joe Johnston, written by Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America alongside Tommy Lee Jones, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper, Neal McDonough, Derek Luke, and Stanley Tucci. During World War II, Steve Rogers, a frail man, is transformed into the super-soldier Captain America and must stop the Red Skull (Weaving) from using the Tesseract as an energy source for world domination."
+      },
+      {
+        "mName": "Captain Marvel 🌠",
+        "cast": "Brie Larson, Samuel Jackson, Jude Law, Gemma Chan",
+        "director": " Anna Boden, Ryan Fleck",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "",
+        "poster": "",
+        "id": 7,
+        "desc": "Captain Marvel is a 2019 American superhero film based on Marvel Comics featuring the character Carol Danvers / Captain Marvel. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 21st film in the Marvel Cinematic Universe (MCU)."
+      },
+      {
+        "mName": "Iron Man 🔥",
+        "cast": "Robert Downey Jr,Gwyneth Paltrow,Jon Favreau,Stan Lee",
+        "director": "Jon Favreau",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "",
+        "poster": "",
+        "id": 2,
+        "desc": "When Tony Stark, an industrialist, is captured, he constructs a high-tech armoured suit to escape. Once he manages to escape, he decides to use his suit to fight against evil forces to save the world."
+      },
+      {
+        "mName": "Iron Man 2 🔥🔥",
+        "cast": "Robert Downey Jr,Gwyneth Paltrow,Jon Favreau,Scarlett Johansson",
+        "director": "Jon Favreau",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "",
+        "poster": "",
+        "id": 3,
+        "desc": "Tony Stark is under pressure from various sources, including the government, to share his technology with the world. He must find a way to fight them while also tackling his other enemies."
+      },
+      {
+        "mName": "The Incredible Hulk 💚",
+        "cast": "Edward Norton, Lou Ferrigo, William Hurt",
+        "director": "Louis Leterrier",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "",
+        "poster": "",
+        "id": 4,
+        "desc": "Dr Bruce Banner subjects himself to high levels of gamma radiation which triggers his transformation into a huge green creature, the Hulk, whenever he experiences negative emotions such as anger."
+      },
+      {
+        "mName": "Thor ⚡",
+        "cast": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins",
+        "director": "Kenneth Branagh",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "",
+        "poster": "",
+        "id": 5,
+        "desc": "Thor is exiled by his father, Odin, the King of Asgard, to the Earth to live among mortals. When he lands on Earth, his trusted weapon Mjolnir is discovered and captured by S.H.I.E.L.D."
+      },
+      {
+        "mName": "Avengers 👩🏼‍🤝‍👨🏽👨🏾‍🤝‍👨🏻👨🏾‍🤝‍👨🏻👨🏾‍🤝‍👨🏻",
+        "cast": "Chris Evas, Robert Downey Jr, Scralett Johansson, Jeremy Renner",
+        "director": "Joss Whedon",
+        "imdbRating": "⭐⭐⭐⭐⭐",
+        "trailer": "",
+        "poster": "",
+        "id": 6,
+        "desc": "Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task."
+      }
+    ]
+  }
